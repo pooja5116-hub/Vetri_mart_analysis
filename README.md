@@ -9,8 +9,8 @@ a retail chain operating across Chennai and Tamil Nadu.
 The solution leverages Power BI to analyze sales performance, customer behavior, 
 inventory management, returns, and delivery operations to support data-driven decision-making.
 
----
 <img width="1512" height="858" alt="image" src="https://github.com/user-attachments/assets/f5b5c26d-9c97-40e0-893d-af0378370772" />
+---
 
 ## 🎯 Objective
 The objective of this project is to transform raw transactional data into meaningful insights 
@@ -21,8 +21,8 @@ through interactive dashboards, enabling management to:
 - Reduce return losses
 - Enhance operational efficiency
 
----
 <img width="1525" height="836" alt="image" src="https://github.com/user-attachments/assets/42d51b6f-6d54-4475-a538-2196212d5b29" />
+---
 
 ## ❗ Problem Statement
 Vetri Mart lacks a centralized analytics system to monitor its operations effectively.
@@ -34,8 +34,8 @@ Key challenges include:
 - High return rates with unclear root causes  
 - Delivery delays affecting customer satisfaction  
 
----
 <img width="1512" height="838" alt="image" src="https://github.com/user-attachments/assets/e7d38423-c929-4b16-a94b-718af3937faa" />
+---
 
 ## 📊 Dataset Description
 The dataset consists of 7 tables:
@@ -63,8 +63,9 @@ Data cleaning and transformation steps:
 - Created validation column:
   - Sales_Check (Correct / Incorrect)
 
----
+
 <img width="1386" height="835" alt="image" src="https://github.com/user-attachments/assets/38af8b2e-d461-4a08-a78a-b4e0fa78c4ba" />
+---
 
 ## 🏗 Data Modeling
 - Implemented **Star Schema**
@@ -76,8 +77,8 @@ Data cleaning and transformation steps:
 - Avoided many-to-many and bidirectional relationships
 - Organized calculations using a **Measures Table**
 
----
 <img width="1478" height="837" alt="image" src="https://github.com/user-attachments/assets/0317b8c7-f9f1-4893-96ee-9f8f61da1d6d" />
+---
 
 ## 📈 Analysis (DAX Measures)
 Key measures created:
@@ -89,9 +90,9 @@ Key measures created:
 - Return Rate %  
 - SLA Compliance %  
 - Customer Metrics (New vs Returning Customers)  
----
-<img width="1551" height="728" alt="image" src="https://github.com/user-attachments/assets/f6561e23-05d7-4add-a04b-aa884d23705e" />
 
+<img width="1551" height="728" alt="image" src="https://github.com/user-attachments/assets/f6561e23-05d7-4add-a04b-aa884d23705e" />
+---
 
 ## 📊 Dashboards
 
@@ -102,8 +103,8 @@ Key measures created:
 - Sales by Region  
 - Category Contribution  
 
----
 <img width="1270" height="713" alt="image" src="https://github.com/user-attachments/assets/8c4bb5b4-2d68-4f0a-8036-5c79130a2280" />
+---
 
 ### 2️⃣ Customer Insights Dashboard
 - New vs Returning Customers  
@@ -112,8 +113,8 @@ Key measures created:
 - Avg Discount by Customer Type  
 - City-wise Demand  
 
----
 <img width="1277" height="722" alt="image" src="https://github.com/user-attachments/assets/8350a94c-b63e-4b09-b7d6-7d4e2771f622" />
+---
 
 ### 3️⃣ Inventory & Operations Dashboard
 - Stock vs Reorder Level  
@@ -123,8 +124,8 @@ Key measures created:
 - Delivery SLA Compliance  
 - Delayed Orders Analysis  
 
----
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/f7472bbc-9d2b-41c7-86c2-3e416f268faa" />
+---
 
 ## 🔍 Key Insights
 - Grocery category contributes the highest revenue  
@@ -135,8 +136,8 @@ Key measures created:
 - Stock-out risk observed in multiple products  
 - Delivery SLA compliance needs improvement  
 
----
 <img width="1522" height="837" alt="image" src="https://github.com/user-attachments/assets/6678ba53-e32c-45a6-b972-59755ab40b72" />
+---
 
 ## 💡 Recommendations
 - Optimize discount strategies to improve profit margins  
@@ -146,8 +147,8 @@ Key measures created:
 - Improve inventory planning to avoid stock-outs  
 - Enhance delivery operations to improve SLA compliance  
 
----
 <img width="1462" height="831" alt="image" src="https://github.com/user-attachments/assets/cbdea09e-3559-494b-a020-25dd7d01acda" />
+---
 
 ## 🛠 Tools & Technologies
 - Power BI  
